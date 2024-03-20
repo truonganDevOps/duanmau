@@ -1,0 +1,13 @@
+{
+    "name": "Sach",
+    "version": "1.0",
+    "description": "Ẩn các phần tử",
+    "manifest_version": 2,
+    "content_scripts": [
+        {
+          "matches": ["https://archive.org/details/*"],
+          "css": ["style.css"],
+          "js": ["custom.js"]
+        }
+      ]
+  }

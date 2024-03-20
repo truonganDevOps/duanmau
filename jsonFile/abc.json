@@ -1,0 +1,35 @@
+{
+    "title": "Java Head",
+    "covers": [
+        5820033
+    ],
+    "key": "/works/OL4902750W",
+    "authors": [
+        {
+            "type": {
+                "key": "/type/author_role"
+            },
+            "author": {
+                "key": "/authors/OL1049393A"
+            }
+        }
+    ],
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": [
+        "Merchants",
+        "Fiction",
+        "Clipper ships"
+    ],
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-10T07:56:52.035598"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T19:42:43.078403"
+    }
+}
