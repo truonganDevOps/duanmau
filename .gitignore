@@ -1,0 +1,16 @@
+.idea/
+.gitattributes
+.project
+DuAn1/target/
+DuAn1/bin/
+DuAn1/.settings/
+DuAn1/.gitignore
+DuAn1/.project
+DuAn1/src/main/java/testAPI
+*.class
+DuAn1/target/DuAn1-1.0-SNAPSHOT.jar
+DuAn1/target/classes/testAPI/GoogleBooksApiExample02.class
+DuAn1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+
+*.class
+DuAn1/target/classes/testAPI/GoogleBooksApiExample02.class

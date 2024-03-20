@@ -1,0 +1,98 @@
+{
+    "kind": "books#volume",
+    "id": "QUFMBAAAQBAJ",
+    "etag": "KLOuFhwu98w",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/QUFMBAAAQBAJ",
+    "volumeInfo": {
+        "title": "Java :",
+        "subtitle": "The Complete Core Reference for the Really Impatient.",
+        "authors": [
+            "Harry. H. Chaudhary.",
+            "Java Guru."
+        ],
+        "publisher": "Programmers Mind Inc.",
+        "publishedDate": "2014-08-15",
+        "description": "Essential Java Skills--Made Easy! What Special – In this book I covered and explained several topics of latest Java 8 Features in detail for Developers & Fresher’s, Topics Like– Lambdas. || Java 8 Functional interface, || Stream and Time API in Java 8. This Java book doesn't require previous programming experience. However, if you come from a C or C++ programming background, then you will be able to learn faster. Learn the all basics and advanced features of Java programming in no time from Bestseller Java Programming Author Harry. H. Chaudhary (More than 1,67,000 Books Sold !). This Java Guide, starts with the basics and Leads to Advance features of Java in detail with thousands of Java Codes and new features of Java 8 like Lambdas. Java 8 Functional interface, || Stream and Time API in Java 8. , I promise this book will make you expert level champion of java. Anyone can learn java through this book at expert level. The main objective of this java book is not to give you just Java Programming Knowledge, I have followed a pattern of improving the question solution of thousands of Codes with clear theory explanations with different Java complexities for each java topic problem, and you will find multiple solutions for complex java problems. Engineering Students and fresh developers can also use this book. This book covers common core syllabus for all Computer Science Professional Degrees If you are really serious then go ahead and make your day with this ultimate java book. First Part- Teach you how to compile and run a Java program, shows you everything you need to develop, compile, debug, and run Java programs. And then discusses the keywords, syntax, and constructs that form the core of the Java language. After that it leads you to advanced features of java, including multithreaded programming and Applets. Learning a new language is no easy task especially when it’s an oop’s programming language like Java. You might think the problem is your brain. It seems to have a mind of its own, a mind that doesn't always want to take in the dry, technical stuff you're forced to study. The fact is your brain craves novelty. This Java Book is very serious java stuff: A complete introduction to Java. You'll learn everything from the fundamentals to advanced topics, if you've read this book, you know what to expect--a visually rich format designed for the way your brain works. To use this book does not require any previous programming experience. However, if you come from a C/C++ background, then you will be able to advance a bit more rapidly. As most readers will know, Java is similar, in form and spirit, to C/C++. Thus, knowledge of those languages helps, but is not necessary. Even if you have never programmed before, you can learn to program in Java using this book. Inside Contents (Chapters): 1. (Overview of Java) 2.(Java Language) 3.(Control Statements) 4.(Scanner class, Arrays & Command Line Args) 5.(Class & Objects in Java) 6.(Inheritance in Java) 7.(Object oriented programming) 8.(Packages in Java) 9.(Interface in Java) 10.(String and StringBuffer) 11.(Exception Handling) 12.(Multi-Threaded Programming) 13.(Modifiers/Visibility modes) 14.(Wrapper Class) 15.(Input/Output in Java) 16.(Applet Fundamentals) 17.(Abstract Windows Toolkit)(AWT) 18.(Introduction To AWT Events) 19.(Painting in AWT) 20.( java.lang.Object Class ) 21.(Collection Framework) PART - II (Java 8 Features for Developers) 22. Java 8 Features for Developers – Lambdas. 23. Java 8 Functional interface,Stream & Time API. 24. Key Features that Make Java More Secure than Other Languages.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781500864538"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1500864536"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 600,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=QUFMBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=QUFMBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.vn/books?id=QUFMBAAAQBAJ&printsec=frontcover&dq=java&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QUFMBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QUFMBAAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "VN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 179573,
+            "currencyCode": "VND"
+        },
+        "retailPrice": {
+            "amount": 134680,
+            "currencyCode": "VND"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=QUFMBAAAQBAJ&rdid=book-QUFMBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 179573000000,
+                    "currencyCode": "VND"
+                },
+                "retailPrice": {
+                    "amountInMicros": 134680000000,
+                    "currencyCode": "VND"
+                }
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "VN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.vn/books/download/Java-sample-pdf.acsm?id=QUFMBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QUFMBAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Java 8 Functional interface, || Stream and Time API in Java 8. , I promise this book will make you expert level champion of java. Anyone can learn java through this book at expert level."
+    }
+}

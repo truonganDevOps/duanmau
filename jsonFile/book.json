@@ -1,0 +1,69 @@
+{
+    "kind": "books#volume",
+    "id": "gJEC2q7DzpQC",
+    "etag": "L+pyCe3FO78",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/gJEC2q7DzpQC",
+    "volumeInfo": {
+        "title": "The History of Java",
+        "authors": [
+            "Sir Thomas Stamford Raffles"
+        ],
+        "publishedDate": "1830",
+        "industryIdentifiers": [
+            {
+                "type": "OTHER",
+                "identifier": "HARVARD:32044021066998"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 534,
+        "printType": "BOOK",
+        "categories": [
+            "Java (Indonesia)"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.12.17.0.full.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=gJEC2q7DzpQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=gJEC2q7DzpQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.vn/books?id=gJEC2q7DzpQC&printsec=frontcover&dq=java&hl=&as_brr=7&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gJEC2q7DzpQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gJEC2q7DzpQC"
+    },
+    "saleInfo": {
+        "country": "VN",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=gJEC2q7DzpQC&rdid=book-gJEC2q7DzpQC&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+        "country": "VN",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.com.vn/books/download/The_History_of_Java.epub?id=gJEC2q7DzpQC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.com.vn/books/download/The_History_of_Java.pdf?id=gJEC2q7DzpQC&hl=&output=pdf&sig=ACfU3U1FeZs0WwTQ2Z_X_IqhvzCelUN01A&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gJEC2q7DzpQC&hl=&as_brr=7&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+    }
+}
